@@ -11,9 +11,10 @@ import java.util.*;
 
 public class SortTenHighRateCharFromString {
   public static void main(String[] argv) {
+    
     String str = "ZZOracleCountryCommunitiesIamaIwanttoSignInRegisterHelpSearchSUBMITSEARCHProductsSolutionsDownloadsStoreSupportTrainingPartnersAboutOTNOracleTechnologyNetworkJavaJavaSEOverviewJavaSEJavaEEJavaMEJavaSESupportJavaSEAdvancedSuiteJavaEmbeddedJavaDBWebTierJavaCardJavaTVNewtoJavaCommunityJavaMagazineOverviewDownloadsDocumentationCommunityTechnologiesTrainingJavaSEataGlanceLicenseesGeneralFAQsFeaturesJavaPlatformStandardEditionJavaSEletsyoudevelopanddeployJavaapplicationsondesktopsandserversaswellasintodaysdemandingembeddedenvironmentsJavaofferstherichuserinterfaceperformanceversatilityportabilityandsecuritythattodaysapplicationsrequireAutoupdateNoticeEndofPublicUpdatesforOracleJDKCoincidentwiththeJanuaryCPUreleaseuserswiththeautoupdatefeatureenabledweremigratedfromOracleJREtoOracleJREAlsopleasenotetheAprilCPUreleasewasthelastOracleJDKpubliclyavailableupdateFormoreinformationanddetailsonhowtoreceivelongertermsupportforOracleJDKpleaseseetheOracleJavaSESupportRoadmapWhatsNewJavaPlatformStandardEditionUpdateJavaSEuandStandardEditionUpdateJavaSEuarenowavailableThislatestreleaseoftheJavaPlatformincludesimportantsecurityfixesOraclestronglyrecommendsthatallJavaSEusersupgradetothisreleaseJDKforARMreleasesareavailableonthesamepageasthedownloadsforotherplatformsarrowDownloadarrowReleaseNotesAdvancedManagementConsoleProvidessystemadministratorsaneffectivecontroloverdiverseJavaversionsrunningondesktopsintheenterpriseenablingamoresecureenvironmentandenhancedapplicationexperienceandavailabilityDocumentationJavaSEisNowAvailableTheJavaPlatformStandardEditionJavaSEisamajorfeaturereleaseItcontainsnewfeaturesandenhancementsinmanyfunctionalareasJavaSEdeliversenhanceddeveloperproductivityandsignificantapplicationperformanceincreasesthroughreducedboilerplatecodeimprovedcollectionsandannotationssimplerparallelprogrammingmodelsandmoreefficientuseofmodernmulticoreprocessorsSeewhatsnewinJDKformoredetailsarrowDownloadarrowReleaseNotesSecurityoftheJavaPlatformAdescriptionofsecurityinformationprovidedbyroleFordeveloperssystemadministratorshomeusersandsecurityprofessionalsJavaRIASecurityChecklistRecentlyannouncedchangesscheduledforJavaupdateJanuaryhaveestablishedthatthedefaultsecuritysliderwillrequirecodesignaturesandthePermissionsManifestattributeThischecklistisintendedtoprovidebestpracticestohelpdevelopmentteamstrackworknecessarytoaccommodateuserpromptsLiveConnectchangesinuJavaupdateOctoberintroducesanewwarningtousersofLiveConnectapplicationsLiveConnectisatechnologyforRichInternetApplicationsthatallowsJavaScriptonawebpagetomakecallsintoanRIAallowingthetwotoworktogetherandloadcontentRIAsthatdonotuseLiveConnectareunaffectedbythischangeReadMoreOracleReleasesNewDiagnosticMonitoringSecurityandDeploymentCapabilitiesforJavaSEPressReleaseVideoJavaMissionControlJavaFlightRecorderandJavaMissionControltogethercreateacompletetoolchaintocontinuouslycollectlowlevelanddetailedruntimeinformationenablingafterthefactincidentanalysisReleaseNotesDemoWhitePaperDeploymentRuleSetDeploymentrulesetallowsadesktopadministratortocontrolthelevelofJavaclientcompatibilityanddefaultpromptsacrossanorganizationDocumentationJavaAPIDocumentationUpdaterToolJavaUsageTrackingandVisualizationwithOracleFusionMiddlewareServerJREStartingwithJavaSEuaServerJavaRuntimeEnvironmentServerJREpackageisavailablefordeployingJavaapplicationsonserversLearnMoreJavaAppletWebStartCodeSigningStartingwithJavaSEuallJavaAppletsandWebStartApplicationsareencouragedtobesignedwithatrustedcertificateLearnMoreArchiveofTechnicalArticlesUpdatesJavaSEuanduReleasedJavaSEuanduarethelatestSecurityAlertreleasesforJDKarrowReleaseNotesarrowDownloadcommunityProductsandTrainingOracleJavaSEAdvancedSuiteExpertmonitoringdiagnosticsandcentralizedmanagementforenterpriseandISVJavabasedapplicationsOracleJavaSESupportAccessOraclePremierSupportforthecomponentsandfeaturesincludedwithJavaSETrainingCertificationJavaSEProgrammingJavaSEFundamentalsJavaSENewFeaturesJavaPerformanceTuningwithMissionControlandFlightRecorderJavaSECertificationRaisingTheBarJavaTrainingOracleUniversityLearnMoreaboutJavaSoftwareJavacanreducecostsdriveinnovationandimproveapplicationservicescommunityCommunityJavaOneJavaOnehasconcludedbuttheLearningLivesOnDidyoumissaJavaOnekeynoteorsessionYoucanfindthosehereAndSavetheDateforOracleOpenWorldSeptemberJavaEventKitAccesstheCreatetheFuturewithJavaEventKitrunyourownJavaeventusingtheresourcesdesignedforJavaUserGroupsJUGsThekitincludesafullyscriptedtechnicalpresentationintrovideopromotionaltoolsandmoreLearnMoreAdoptaJSRProgramThisprogramisintendedtoencourageJUGmemberstogetinvolvedinaJavaSpecificationRequestJSRandtoevangelisethatJSRtotheirJUGandthewiderJavacommunityinordertoincreasegrassrootsparticipationLearnMoreJavanetTheSourceforJavaTechnologyCollaborationJavaEmbeddedCommunityJavaFXCommunityNightHackingLogoNighthackingcomTheNightHackingJavaTouristheinaugurallegoftheJavaToureventwheretheevangelismteamwillbecrossingtheglobetospeakatconferencesandJavaUserGroupstospreadthewordaboutthenewJavareleaseParticipateMaketheFutureJavaOutreachProgramTogetherwecaninspirefuturetechnologiststolearnmoreaboutJavaandtheopportunitiesitbringsTheMaketheFutureJavaprogramoffersresourcestoolkitsandpromotionalitemsyoucanuseforJavaoutreachwithinyourlocalcommunityJoinaJavaUserGroupJUGJavaUserGroupsJUGsarevolunteerorganizationsthatstrivetodistributeJavarelatedknowledgearoundtheworldTheyprovideameetingplaceforJavauserstogetinformationshareresourcesandsolutionsincreasenetworkingexpandJavaTechnologyexpertiseandabovealldrinkbeereatpizzaandhavefunFindaJUGandbecomeapartoftheJavacommunitytodayJavaForumsICodeJavaReadaboutandshareideasandsuggestionsaboutJavatechnologyonthediscussionforumsStartwiththeNewtoJavaorthemoreadvancedJavaProgrammingcategoryGimmeJavaShowyourtruecolorsTheseJavadesignsareyourstotakeandusePostonyourWebsiteputthemontshirtsorcoffeemugsusethemjustaboutanywhereexceptonaJavaproductandlettheworldknowaboutyourpassionforJavaJavaSESiteMapLeftCurveJavaSDKsandToolsRightCurveJavaSEJavaEEandGlassfishJavaMEJavaCardNetBeansIDEJavaMissionControlLeftCurveJavaResourcesRightCurveJavaAPIsTechnicalArticlesDemosandVideosForumsJavaMagazineJavanetDeveloperTrainingTutorialsJavacomEmailthispageEmailthispagePrinterViewPrinterViewORACLECLOUDLearnAboutOracleCloudComputingGetaFreeTrialLearnAboutDaaSLearnAboutSaaSLearnAboutPaaSLearnAboutIaaSLearnAboutPrivateCloudLearnAboutManagedCloudJAVALearnAboutJavaDownloadJavaforConsumersDownloadJavaforDevelopersJavaResourcesforDevelopersJavaCloudServiceJavaMagazineCUSTOMERSANDEVENTSExploreandReadCustomerStoriesAllOracleEventsOracleOpenWorldJavaOneEMAILSUBSCRIPTIONSSubscriptionCenterCOMMUNITIESBlogsDiscussionForumsWikisOracleACEsUserGroupsSocialMediaChannelsSERVICESANDSTORELogIntoMyOracleSupportTrainingandCertificationBecomeaPartnerFindaPartnerSolutionPurchasefromtheOracleStoreSourceCodeforOpenSourceSoftwareCONTACTANDCHATUSSalesGlobalContactsOracleSupportPartnerSupportIntegratedCloudApplicationsandPlatformServicesOracleSubscribeCareersContactUsSiteMapsLegalNoticesTermsofUsePrivacyCookiePreferencesAdChoicesOracleMobileFacebookLinkedInTwitterGoogleYouTubeOracleRSSFeed";
+    str = "ZZOracleCountry";
     findTenHighRateCharString(str);
-//    stat(str);
   }
 
 
@@ -21,13 +22,22 @@ public class SortTenHighRateCharFromString {
     if(var==null||"".equals(var)){
       return null;
     }
+    
+    //TODO
+    if(var.length()<10){
+      return var;
+    }
 
     final int size = 26*2;
-
-    int[] dic = new int[size];
-
+    int[] dic = new int[size]; // index: char assi(computed), value: count
     char[] arr = var.toCharArray();
-
+    /*
+     * first ten high rated char,
+     * index: order, 0-high, 10-low,
+     * value: index of dic
+     */
+    int[] hit = new int[10];
+    int lowerHit = 0; //index for lower value in hit
     //count
     for(char ch:arr){
       int idx = (int)ch;
@@ -37,52 +47,61 @@ public class SortTenHighRateCharFromString {
       }
       pos-=(int)'A';
       dic[pos]++;
-//      System.out.printf("%c(%d):%d\n", ch,pos, dic[pos]);
-    }
-    System.out.println();
+      if(hit[lowerHit]<dic[pos]&&pos!=hit[lowerHit]){
 
-    int[] hit = new int[10];
-
-    //sort for first 10
-    /*
-    int low = 0;
-    for(int idx = 0; idx<size;idx++) {
-      if (dic[idx] == 0) {
-        continue;
+//        System.out.printf("lowerHit:%d, dic pos:%d, dic value %d, dic[pos]:%c\n", lowerHit, pos, dic[pos], ch);
+        hit = insert(dic, hit, pos);
+        lowerHit = getLowerHit(hit);
       }
-      if (dic[idx] <= hit[9]) {
-        continue;
-      }
-      //这个时候很明显要改东西了
-      for(int inn = 0; inn <10;inn++) {
-        if(dic[hit[inn]]==0){
-          hit[inn] = idx;
-          break;
-        }
-        if(dic[idx]>dic[hit[inn]]){
-          for(int tmp = 9; tmp>inn; tmp--){
-            hit[tmp] = hit[tmp-1];
-          }
-          hit[inn] = idx;
-        }
-      }
-    }//*/
-
-
-    //TEST
-    for(int idx = 0; idx<dic.length;idx++) {
-      char ch = dic[idx]+'A'+6>='a'?(char) (dic[idx]+(int)'A'+6):(char)(dic[idx]+(int)'A');
-      System.out.printf("(%d):%d, %c\n", idx, dic[idx], ch);
     }
 
     // trans to string
     StringBuffer result = new StringBuffer();
     for(int idx = 0; idx<hit.length;idx++) {
-      char ch = dic[hit[idx]]+'A'+6>='a'?(char) (dic[hit[idx]]+(int)'A'+6):(char)(dic[hit[idx]]+(int)'A');
-//      System.out.printf("(%d):%d, %c\n", idx, hit[idx], ch);
+      char ch = hit[idx]+'A'+6>='a'
+        ?(char) (hit[idx]+(int)'A'+6)
+        :(char)(hit[idx]+(int)'A');
       result.append(ch);
     }
-    System.out.printf("%s", result.toString());
-    return null;
+    System.out.printf("%s\n", result.toString());
+    return result.toString();
   }
+
+  /**
+   *
+   * @param dic
+   * @param hit
+   * @param pos
+   * @return
+   */
+  private static int[] insert(int[] dic, int[] hit, int pos){
+    int value = dic[pos];
+    //for(int i = 0; i<hit.length && hit[i]>0; i++){
+    for(int i = 0; i<hit.length; i++){
+      if(value > dic[hit[i]]){
+        System.out.printf("hit[%d] %d==%d), %s\n", i, hit[i], pos, hit[i]==pos);
+        if(hit[i]==pos){
+          System.out.printf("hit[%d]==%d), break\n", hit[i], pos);
+          break;
+        }
+        System.out.printf("insert value %d at position %d of hit\n", value, i);
+        for(int j=hit.length-1; j>i;j--){
+          hit[j] = hit[j-1];
+        }
+        hit[i] = pos;
+        break;
+      }
+    }
+    return hit;
+  }
+
+  private static int getLowerHit(int hit[]){
+    for(int idx = 0;idx<hit.length;idx++){
+      if(hit[idx]<=1){
+        return idx;
+      }
+    }
+    return hit.length-1;
+  }
+  
 }
